@@ -1,1 +1,1 @@
-# PWM-CONTROLLED-3-PHASE-INVERTER
+#  Switched Capacitor Multilevel Inverter (SCMLI) topology in MATLAB Simulink.
